@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ball
+  - Kickball
+  - Football
+  - Desk
+  - Bed
+  - Rug
+  - Box
   layers:
   - Default
   - TransparentFX
